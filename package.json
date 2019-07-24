@@ -1,0 +1,27 @@
+{
+  "name": "@neos21/igsv",
+  "version": "1.0.0",
+  "description": "Instagram の画像・動画をダウンロードする CLI ツール",
+  "main": "main.js",
+  "bin": {
+    "igsv": "main.js"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21/igsv.git"
+  },
+  "author": "Neo <neos21@gmail.com> (http://neo.s21.xrea.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neos21/igsv/issues"
+  },
+  "homepage": "https://github.com/Neos21/igsv#readme",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.3",
+    "request": "2.88.0",
+    "request-promise": "4.2.4"
+  }
+}
