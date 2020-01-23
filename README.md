@@ -35,7 +35,7 @@ $ igsv https://www.instagram.com/p/XXXXXXXXXXX/ '/home/downloads'
 
 ## Author
 
-[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/Neos21))
+[Neo](http://neo.s21.xrea.com/)
 
 - [GitHub - igsv](https://github.com/Neos21/igsv)
 - [npm - @neos21/igsv](https://www.npmjs.com/package/@neos21/igsv)
