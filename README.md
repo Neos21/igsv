@@ -1,4 +1,4 @@
-# igsv : @neos21/igsv
+# @neos21/igsv : igsv
 
 Instagram の画像・動画をダウンロードする CLI ツール。
 
@@ -33,19 +33,9 @@ $ igsv https://www.instagram.com/p/XXXXXXXXXXX/ '/home/downloads'
 ```
 
 
-## Author
-
-[Neo](http://neo.s21.xrea.com/)
-
-- [GitHub - igsv](https://github.com/Neos21/igsv)
-- [npm - @neos21/igsv](https://www.npmjs.com/package/@neos21/igsv)
-
-
 ## Links
 
-- [Neo's World](http://neo.s21.xrea.com/)
-- [Corredor](https://neos21.hatenablog.com/)
-- [Murga](https://neos21.hatenablog.jp/)
-- [El Mylar](https://neos21.hateblo.jp/)
-- [Neo's GitHub Pages](https://neos21.github.io/)
+- [Neo's World](https://neos21.net/)
 - [GitHub - Neos21](https://github.com/Neos21/)
+- [GitHub - igsv](https://github.com/Neos21/igsv)
+- [npm - @neos21/igsv](https://www.npmjs.com/package/@neos21/igsv)
